@@ -1,0 +1,29 @@
+{
+  "name": "heroku-test",
+  "version": "1.0.0",
+  "description": "test on heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidUllauri/heroku-test.git"
+  },
+  "author": "David Ullauri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidUllauri/heroku-test/issues"
+  },
+  "homepage": "https://github.com/DavidUllauri/heroku-test#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.5",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^4.28.4"
+  },
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
